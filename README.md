@@ -56,7 +56,7 @@ The compiled `.jar` file will be located in `build/libs/`.
 ### Configuring AutoLogin
 
 <p align="center">
-  <img src="autologin_gui.png" alt="AutoLogin Configuration GUI" width="600" />
+  <img src="https://raw.githubusercontent.com/Khangdz01/SkidAddon/main/autologin_gui.png" alt="AutoLogin Configuration GUI" width="600" />
 </p>
 
 Most settings can be kept at their **default** values. You only need to set your login command:
