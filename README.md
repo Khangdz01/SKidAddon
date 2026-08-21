@@ -54,7 +54,10 @@ The compiled `.jar` file will be located in `build/libs/`.
 ## Configuration Guide
 
 ### Configuring AutoLogin
-![AutoLogin Configuration](autologin_gui.png)
+
+<p align="center">
+  <img src="autologin_gui.png" alt="AutoLogin Configuration GUI" width="600" />
+</p>
 
 Most settings can be kept at their **default** values. You only need to set your login command:
 - **Universal Command:** `/dn {matkhautaikhoancuamay}` *(Replace `{matkhautaikhoancuamay}` with your actual password)*
